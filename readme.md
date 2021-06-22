@@ -1,0 +1,6 @@
+- Edx course, Advanced Programming in C++, from NYUx CPP.PRG.2
+- Edx, Programming & Data Structures MicroBachelors
+- Part 1: Introduction to Programming in C++, see repositories
+- Part 2: Advanced Programming in C++
+- Part 3: Introduction to Data Structures
+- Part 4: Advanced Data Structures

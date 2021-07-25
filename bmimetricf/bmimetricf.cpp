@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 
-// comment out all but funcion bmimetricf for grading purposes
+// comment out all but function bmimetricf for grading purposes
 float bmimetricf(int weight, float height);
 
 int main() {

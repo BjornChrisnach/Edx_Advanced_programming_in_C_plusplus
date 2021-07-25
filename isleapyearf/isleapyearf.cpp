@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// comment out all but funcion isleapyear for grading purposes
+// comment out all but function isleapyear for grading purposes
 bool isleapyear(int year);
 
 int main() {
